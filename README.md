@@ -4,8 +4,6 @@
 
 **Final Project:** [https://florentine-glimmer-property.glitch.me](https://florentine-glimmer-property.glitch.me)
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-timestamp)](https://repl.it/github/freeCodeCamp/boilerplate-project-timestamp)
-
 ### User stories:
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
@@ -18,8 +16,8 @@
 
 #### Example usage:
 
-- https://Timestamp-Microservice--freecodecamp.repl.co/api/timestamp/2015-12-25
-- https://Timestamp-Microservice--freecodecamp.repl.co/api/timestamp/1451001600000
+- https://florentine-glimmer-property.glitch.me/api/timestamp/2015-12-25
+- https://florentine-glimmer-property.glitch.me/api/timestamp/1451001600000
 
 #### Example output:
 
