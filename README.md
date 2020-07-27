@@ -1,10 +1,12 @@
 # API Project: Timestamp Microservice for FCC
 
-### User stories:
+### Project Links:
 
 **Final Project:** [https://florentine-glimmer-property.glitch.me](https://florentine-glimmer-property.glitch.me)
 
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-timestamp)](https://repl.it/github/freeCodeCamp/boilerplate-project-timestamp)
+
+### User stories:
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
 2. A date string is valid if can be successfully parsed by `new Date(date_string)` (JS) . Note that the unix timestamp needs to be an **integer** (not a string) specifying **milliseconds**. In our test we will use date strings compliant with ISO-8601 (e.g. `"2016-11-20"`) because this will ensure an UTC timestamp.
